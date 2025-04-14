@@ -48,5 +48,8 @@ JavaScript for game logic and interactions.
 
 This Tic-Tac-Toe game is designed to be fully responsive, ensuring a smooth user experience on both mobile devices and desktop computers.
 
+Want to play ? then click on the link below : 
+https://tic-tac-toe-game-xi-snowy.vercel.app/
+
 Enjoy playing the game! 🎉
 
